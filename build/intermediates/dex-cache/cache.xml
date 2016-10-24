@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\ParseLoadMore1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d787ad93852a2806af8b4ead0e3c3d85828da5e3">
+        <dex dex="C:\Users\user\Downloads\ParseLoadMore1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d39703d5c235db7e62f4285fd8c60f6f9b52a4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\ParseLoadMore1\app\libs\Parse-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0134925989cd90163c416e94383b1b8ee88d02e2">
+        <dex dex="C:\Users\user\Downloads\ParseLoadMore1\app\build\intermediates\pre-dexed\debug\Parse-1.3.0_64911027624b46448e21f0d5f72be5de0aac4ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\ParseLoadMore1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="21c998bd0750a567e6d57ed1320fcad4db3aec8c">
+        <dex dex="C:\Users\user\Downloads\ParseLoadMore1\app\build\intermediates\pre-dexed\debug\instant-run_673488a01646d458c6c381403fb6d494405a5481.jar" />
+    </item>
+
+</items>
